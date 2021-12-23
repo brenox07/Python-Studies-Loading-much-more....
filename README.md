@@ -1,1 +1,1 @@
-# JornadaByLearn
+# Python Studies
